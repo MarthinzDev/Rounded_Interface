@@ -1,0 +1,30 @@
+<meta>
+    <script src="files/script/client.lua" type="client" cache="false"/>
+    <script src="files/script/utils.lua" type="client" cache="false"/>
+    <script src="config.lua" type="shared" cache="false"/>
+    <script src="files/script/velocity.lua" type="client" cache="false"/>
+    
+    <file src="files/shader/shader.fx" cache="false"/>
+    <file src="files/gfx/vida.png" cache="false"/>
+    <file src="files/gfx/colete.png" cache="false"/>
+    <file src="files/gfx/fome.png" cache="false"/>
+    <file src="files/gfx/sede.png" cache="false"/>
+    <file src="files/gfx/fix.png" cache="false"/>
+    <file src="files/gfx/gas.png" cache="false"/>
+    <file src="files/gfx/cintooff.png" cache="false"/>
+    <file src="files/gfx/cintoon.png" cache="false"/>
+    <file src="files/gfx/mic.png" cache="false"/>
+    <file src="files/gfx/logo.png" cache="false"/>
+    <file src="files/gfx/freq.png" cache="false"/>
+    <file src="files/gfx/loc.png" cache="false"/>
+    <file src="files/gfx/hora.png" cache="false"/>
+    <file src="files/gfx/macha.png" cache="false"/>
+    <file src="files/gfx/c.png" cache="false"/>
+    <file src="files/gfx/vl.png" cache="false"/>
+    <file src="files/gfx/farol.png" cache="false"/>
+    <file src="files/gfx/engine.png" cache="false"/>
+    <file src="files/gfx/tranca.png" cache="false"/>
+    <file src="files/gfx/cruiser.png" cache="false"/>
+    <file src="files/fonts/AbFont.ttf" />
+    <file src="files/fonts/Tomorrow-Regular.ttf" cache="false"/>
+</meta>
