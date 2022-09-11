@@ -1,4 +1,3 @@
---Author: Absolut
 MunitorC, MunitorL = guiGetScreenSize()
 abx, aby = (MunitorC/1366), (MunitorL/768)
 AbFont = dxCreateFont("files/fonts/AbFont.ttf", abx*35)
